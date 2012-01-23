@@ -1,3 +1,5 @@
 =========================================================
   Jokte - Primera distribución Latinoamericana de Joomla!
 =========================================================
+Este fork, es para trabajar en la conexion con la base de datos postgresql, y no contaminar el fork principal...
+este fork se eliminara cuando este probado y funcionando todo ok, se agregara al principal.
